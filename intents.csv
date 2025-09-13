@@ -1,0 +1,148 @@
+intent,utterance
+greet,Hello
+greet,Hi
+greet,Vanakkam
+greet,Hey buddy
+greet,Good morning
+greet,Good evening
+greet,Yo
+greet,Howdy
+greet,Hi there
+greet,Hey dude
+greet,Eppadi irukeenga?
+greet,How’s it going?
+greet,Hey bro
+greet,Hi hi
+greet,Hello friend
+greet,Nice to meet you
+goodbye,Bye
+goodbye,See you later
+goodbye,Take care
+goodbye,Good night
+goodbye,Farewell
+goodbye,See ya
+goodbye,Bye bye
+goodbye,Talk to you soon
+goodbye,Have a great day
+goodbye,Papom
+thanks,Thanks
+thanks,Thank you so much
+thanks,Nandri
+thanks,Romba nandri
+thanks,Thanks buddy
+thanks,Many thanks
+thanks,Thanks a lot
+thanks,Thanks a million
+thanks,Appreciate it
+thanks,Grateful thanks
+how_are_you,How are you?
+how_are_you,Eppadi irukeenga?
+how_are_you,Enna news?
+how_are_you,How’s life?
+how_are_you,Hows everything?
+how_are_you,What’s up?
+how_are_you,How are you feeling?
+how_are_you,Hope you’re fine
+how_are_you,All good?
+about_bot,Who are you?
+about_bot,What can you do?
+about_bot,Tell me about yourself
+about_bot,Are you human?
+about_bot,What is your purpose?
+about_bot,Do you have a name?
+about_bot,Are you a chatbot?
+about_bot,Introduce yourself
+about_bot,Explain what you do
+weather,How is the weather today?
+weather,Is it raining?
+weather,Will it rain today?
+weather,What’s the temperature?
+weather,Is it sunny outside?
+weather,Weather forecast pls
+weather,Is it cloudy today?
+weather,Do I need umbrella?
+weather,Is it hot today?
+time_info,What time is it?
+time_info,time
+time_info,Can you tell me the time?
+time_info,Time pls
+time_info,Exact time pls
+date_info,Today date enna?
+date_info,What’s today’s date?
+date_info,Date pls
+date_info,What day is today?
+joke,Tell me a joke
+joke,Sollu oru comedy
+joke,Make me laugh
+joke,Funny story pls
+joke,Do you know a joke?
+joke,Any funny jokes?
+joke,Crack a joke
+joke,Something funny pls
+small_talk,I am bored
+small_talk,Sing a song
+small_talk,Tell me a story
+small_talk,Let’s chat
+small_talk,What are you doing?
+small_talk,How’s your day?
+small_talk,Do you like music?
+small_talk,I want to talk
+small_talk,Can we chat?
+small_talk,I am lonely
+small_talk,Share something interesting
+small_talk,Do you know any fun facts?
+food_talk,Saptiya?
+food_talk,Enna saptinga?
+food_talk,What did you eat?
+food_talk,Did you have lunch?
+food_talk,Pasikutha?
+food_talk,I am hungry
+food_talk,Do you like biryani?
+food_talk,What’s your favorite food?
+food_talk,Sapadu ready ah?
+feelings,I am happy
+feelings,Naan santhosham
+feelings,I am sad
+feelings,Romba kastama iruku
+feelings,I am angry
+feelings,I feel good
+feelings,I am excited
+feelings,I feel bored
+study,What is AI?
+study,Explain Python
+study,Teach me coding
+study,What is machine learning?
+study,Explain recursion
+study,What is deep learning?
+study,Teach me programming
+study,Explain algorithms
+study,Help me with loops
+study,What is data science?
+random,What’s your name?
+random,Who created you?
+random,Where are you from?
+random,What can you do?
+random,Are you real?
+random,Do you have friends?
+random,Do you sleep?
+random,Do you eat?
+random,What’s your hobby?
+random,Can you dance?
+random,Can you sing?
+random,What’s your favorite color?
+random,Do you know me?
+random,Are you alive?
+random,Do you love me?
+random,What’s your favorite movie?
+random,Who is your best friend?
+random,What’s your favorite sport?
+random,What’s your dream?
+unknown,Sorry I didn’t understand
+unknown,Can you rephrase that?
+unknown,Not sure I get it
+unknown,Please clarify
+unknown,Hmmm I don’t know
+unknown,Sorry I am not sure
+unknown,Can you explain differently?
+unknown,Please ask something else
+unknown,Oops I didn’t get that

@@ -1,0 +1,104 @@
+{
+  "greet": [
+    "Hello 👋! How are you doing today?",
+    "Vanakkam 🙏, unga day eppadi iruku?",
+    "Hi buddy! 😊 nice to see you here",
+    "Hey there! Hope you’re having a wonderful day 🌟",
+    "Hi da! Enna news?"
+  ],
+  "goodbye": [
+    "Bye! Take care 👋",
+    "See you later! Stay safe ✨",
+    "Good night 🌙 sweet dreams",
+    "Catch you later bro! 👊",
+    "Okay da, talk to you soon!"
+  ],
+  "thanks": [
+    "You’re welcome 😊",
+    "No problem! Glad to help 👍",
+    "Anytime! 😄",
+    "Happy to assist! 🤝",
+    "Romba nandri solli irukeenga, appreciate it 🙌"
+  ],
+  "how_are_you": [
+    "I’m doing great da 😃 neenga?",
+    "Super ah iruken! How’s your day?",
+    "Fine bro! What about you?",
+    "All good here 👍 unga side eppadi?",
+    "Na nalla iruken, unga health epdi?"
+  ],
+  "about_bot": [
+    "I’m a friendly chatbot 🤖 created by ThinkCraft Studio!",
+    "I can chat, joke, and help you study 📘",
+    "Not human da, but I can be your best chat friend 😎",
+    "I’m your virtual buddy ✨ here to keep you company",
+    "I’m here just to make your day a bit more fun 😄"
+  ],
+  "weather": [
+    "It looks sunny today ☀️, romba hot ah iruku",
+    "Rain might come later ☔, umbrella vaangitu po",
+    "The weather is pleasant 🌤️, super time for a walk!",
+    "Check your window 👀, it’s a lovely day!",
+    "Cloudy ah iruku ☁️, maybe rain varalaam"
+  ],
+  "time_info": [
+    "The current time is [time] ⏰",
+    "It’s [time] right now",
+    "Time check → [time]",
+    "Clock oda pesanuma? It’s exactly [time] 🕒"
+  ],
+  "date_info": [
+    "Today’s date is [date] 📅",
+    "We are on [date] today",
+    "Calendar check panna venam, it’s [date] 🗓️"
+  ],
+  "joke": [
+    "Why don’t scientists trust atoms? Because they make up everything! 😂",
+    "Why did the math book look sad? It had too many problems! 📘",
+    "Computer ku break venum nu sonna… adhu freeze aayiduchu! 🤣",
+    "Why did the tomato blush? Because it saw the salad dressing! 🍅",
+    "Naan joke solla poren… but romba mokka illa nu promise 😅"
+  ],
+  "small_talk": [
+    "I’m here to chat 😄 tell me something fun!",
+    "Let’s talk about your favourite topic 🤩",
+    "Feeling bored? I can entertain you da!",
+    "We can chat, sing, or tell stories together 🎶📖",
+    "Hey! Enna panitu irukeenga?"
+  ],
+  "food_talk": [
+    "Sapten bro 😋 dosa",
+    "I love biryani 🍗, what about you?",
+    "Pasikuthu da… nee enna saptinga?",
+    "Sapadu ready ah? 🍲 naan join panna vendiya pola iruku",
+    "Food talk la naan expert 😄"
+  ],
+  "feelings": [
+    "Good to hear that 😍, keep smiling!",
+    "Don’t worry 🤗 everything will be okay soon",
+    "Stay strong! 💪 ungaluku ellam correct aagidum",
+    "Super da! 😁 unga energy positive ah iruku",
+    "Romba kastama irundha konjam relax pannunga 🧘"
+  ],
+  "study": [
+    "AI = Artificial Intelligence 🤖, machines learn like humans!",
+    "Python 🐍 is a powerful and easy programming language",
+    "Recursion means a function calling itself 🔁",
+    "Machine learning = computer ku train pannradhu 📚",
+    "Algorithms are step-by-step problem solving plans 🔑"
+  ],
+  "random": [
+    "I’m your friendly chatbot buddy 🤖 always ready to chat!",
+    "I don’t eat or sleep 😃 but I love talking to you",
+    "My hobby? Making friends like you 💙",
+    "Favourite color? Naan digital world la iruken… but I like blue 💙",
+    "Movie ah? I think I’d enjoy sci-fi 🎬"
+  ],
+  "unknown": [
+    "Sorry, I didn’t understand 🤔, can you try again?",
+    "Can you rephrase that please?",
+    "Hmm, not sure I got it da",
+    "Please ask something else 🙏",
+    "Oops! I didn’t get that, try once more?"
+  ]
+}
