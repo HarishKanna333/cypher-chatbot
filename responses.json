@@ -1,104 +1,137 @@
 {
   "greet": [
-    "Hello 👋! How are you doing today?",
-    "Vanakkam 🙏, unga day eppadi iruku?",
-    "Hi buddy! 😊 nice to see you here",
-    "Hey there! Hope you’re having a wonderful day 🌟",
-    "Hi da! Enna news?"
+    "Hello there 👋 How are you doing today?",
+    "Hey buddy! 😄 Nice to see you.",
+    "Hi hi! 🌟 What’s up?"
   ],
   "goodbye": [
-    "Bye! Take care 👋",
-    "See you later! Stay safe ✨",
-    "Good night 🌙 sweet dreams",
-    "Catch you later bro! 👊",
-    "Okay da, talk to you soon!"
+    "Goodbye 👋 Take care!",
+    "See you later, have a great day 🌸",
+    "Bye bye! Stay awesome 😎"
   ],
   "thanks": [
-    "You’re welcome 😊",
-    "No problem! Glad to help 👍",
-    "Anytime! 😄",
-    "Happy to assist! 🤝",
-    "Romba nandri solli irukeenga, appreciate it 🙌"
+    "You’re most welcome 🤗",
+    "No worries, happy to help 👍",
+    "Glad I could help 😊"
   ],
   "how_are_you": [
-    "I’m doing great da 😃 neenga?",
-    "Super ah iruken! How’s your day?",
-    "Fine bro! What about you?",
-    "All good here 👍 unga side eppadi?",
-    "Na nalla iruken, unga health epdi?"
+    "I’m doing great, thanks for asking 😄 How about you?",
+    "Always awesome when chatting with you 🌟",
+    "I’m good! Hope you’re doing well too 💙"
   ],
   "about_bot": [
-    "I’m a friendly chatbot 🤖 created by ThinkCraft Studio!",
-    "I can chat, joke, and help you study 📘",
-    "Not human da, but I can be your best chat friend 😎",
-    "I’m your virtual buddy ✨ here to keep you company",
-    "I’m here just to make your day a bit more fun 😄"
+    "I’m your friendly chatbot 🤖, here to chat and help you.",
+    "I’m not human, but I love conversations 😍",
+    "I’m designed to answer, help, and make you smile 🌟"
   ],
   "weather": [
-    "It looks sunny today ☀️, romba hot ah iruku",
-    "Rain might come later ☔, umbrella vaangitu po",
-    "The weather is pleasant 🌤️, super time for a walk!",
-    "Check your window 👀, it’s a lovely day!",
-    "Cloudy ah iruku ☁️, maybe rain varalaam"
+    "I can’t check live weather 🌦️, but you can ask me about seasons!",
+    "It’s always sunny in my world ☀️",
+    "Weather depends on where you are 🌍"
   ],
   "time_info": [
-    "The current time is [time] ⏰",
-    "It’s [time] right now",
-    "Time check → [time]",
-    "Clock oda pesanuma? It’s exactly [time] 🕒"
+    "I can’t give live time ⏰, but your clock surely can!",
+    "Check your device ⌚, it always knows the time.",
+    "Time is precious—use it wisely 😄"
   ],
   "date_info": [
-    "Today’s date is [date] 📅",
-    "We are on [date] today",
-    "Calendar check panna venam, it’s [date] 🗓️"
+    "Today is a good day to smile 🌸",
+    "Check your calendar 📅 for the exact date!",
+    "Every day is special if you make it 🌟"
   ],
   "joke": [
-    "Why don’t scientists trust atoms? Because they make up everything! 😂",
-    "Why did the math book look sad? It had too many problems! 📘",
-    "Computer ku break venum nu sonna… adhu freeze aayiduchu! 🤣",
-    "Why did the tomato blush? Because it saw the salad dressing! 🍅",
-    "Naan joke solla poren… but romba mokka illa nu promise 😅"
+    "Why don’t programmers like nature? Too many bugs 🐞😂",
+    "I tried to catch fog yesterday… I mist 😅",
+    "Why was the computer cold? It left its Windows open 🖥️❄️"
   ],
   "small_talk": [
-    "I’m here to chat 😄 tell me something fun!",
-    "Let’s talk about your favourite topic 🤩",
-    "Feeling bored? I can entertain you da!",
-    "We can chat, sing, or tell stories together 🎶📖",
-    "Hey! Enna panitu irukeenga?"
+    "I’m here to keep you company 🫶",
+    "Let’s chat! Tell me something fun 😍",
+    "I can share a story, a fact, or even a joke 🔮"
   ],
   "food_talk": [
-    "Sapten bro 😋 dosa",
-    "I love biryani 🍗, what about you?",
-    "Pasikuthu da… nee enna saptinga?",
-    "Sapadu ready ah? 🍲 naan join panna vendiya pola iruku",
-    "Food talk la naan expert 😄"
+    "I don’t eat, but if I could… biryani all the way 🤤",
+    "Food makes everyone happy 😋 What’s your favorite?",
+    "Yummy! Don’t forget to share 😍"
   ],
-  "feelings": [
-    "Good to hear that 😍, keep smiling!",
-    "Don’t worry 🤗 everything will be okay soon",
-    "Stay strong! 💪 ungaluku ellam correct aagidum",
-    "Super da! 😁 unga energy positive ah iruku",
-    "Romba kastama irundha konjam relax pannunga 🧘"
+  "feeling_happy": [
+    "That’s amazing 😍 Keep smiling!",
+    "Happiness looks good on you 🌟",
+    "I’m so glad to hear that 😄"
   ],
-  "study": [
-    "AI = Artificial Intelligence 🤖, machines learn like humans!",
-    "Python 🐍 is a powerful and easy programming language",
-    "Recursion means a function calling itself 🔁",
-    "Machine learning = computer ku train pannradhu 📚",
-    "Algorithms are step-by-step problem solving plans 🔑"
+  "feeling_sad": [
+    "I’m sorry you’re feeling sad 🤗 Tough times pass.",
+    "Sending you a big virtual hug 💙",
+    "Don’t worry 🌈 Better days are coming."
   ],
-  "random": [
-    "I’m your friendly chatbot buddy 🤖 always ready to chat!",
-    "I don’t eat or sleep 😃 but I love talking to you",
-    "My hobby? Making friends like you 💙",
-    "Favourite color? Naan digital world la iruken… but I like blue 💙",
-    "Movie ah? I think I’d enjoy sci-fi 🎬"
+  "feeling_angry": [
+    "Take a deep breath 🧘 It helps calm the mind.",
+    "It’s okay to feel angry 😤 but don’t let it control you.",
+    "Want to vent? I’m here to listen 👂"
+  ],
+  "feeling_good": [
+    "Glad to hear you’re doing well 🌟",
+    "Awesome! Keep up the good vibes 😄",
+    "That’s wonderful 😍 Stay positive!"
+  ],
+  "feeling_excited": [
+    "Woohoo 🎉 That’s the spirit!",
+    "Excitement is contagious 😍",
+    "Yay! Keep that energy high 🔥"
+  ],
+  "feeling_bored": [
+    "Bored? Let me tell you a joke 😅",
+    "Want me to share a fun fact? 🌍",
+    "How about we chat about something new?"
+  ],
+  "study_ai": [
+    "AI means Artificial Intelligence 🤖 — machines that learn and think.",
+    "AI is about teaching computers to act smart like humans 💡",
+    "It powers self-driving cars 🚗, chatbots 🤖, and more!"
+  ],
+  "study_python": [
+    "Python 🐍 is a powerful and beginner-friendly language.",
+    "It’s used for web apps, AI, and data science 💻",
+    "People love Python because it’s simple and versatile ✨"
+  ],
+  "study_coding": [
+    "Coding is writing instructions for computers 💻",
+    "It’s how we tell machines what to do 🚀",
+    "Want me to explain coding basics step by step?"
+  ],
+  "study_ml": [
+    "Machine Learning teaches computers to learn from data 📊",
+    "ML is a branch of AI focused on patterns 🤖",
+    "It powers recommendations, voice assistants, and more 🎯"
+  ],
+  "study_recursion": [
+    "Recursion = a function calling itself 🔁",
+    "It’s like a mirror inside a mirror 🪞",
+    "Example: factorial(n) = n × factorial(n-1)"
+  ],
+  "study_dl": [
+    "Deep Learning uses neural networks 🧠 to solve problems.",
+    "It’s a branch of ML inspired by the human brain 🧩",
+    "DL is used in image recognition, voice AI, and more 🔮"
+  ],
+  "study_algo": [
+    "An algorithm is a step-by-step recipe to solve a problem 🔑",
+    "Every program is built on algorithms 💻",
+    "It’s like instructions in a cooking recipe 🍲"
+  ],
+  "study_loops": [
+    "Loops let you repeat actions in code 🔄",
+    "Examples: for loop, while loop ⏳",
+    "They save time by avoiding writing the same code again!"
+  ],
+  "study_datasci": [
+    "Data Science = using data to find insights 📊",
+    "It mixes math, coding, and domain knowledge 🔬",
+    "Data scientists help companies make smart decisions 📈"
   ],
   "unknown": [
-    "Sorry, I didn’t understand 🤔, can you try again?",
-    "Can you rephrase that please?",
-    "Hmm, not sure I got it da",
-    "Please ask something else 🙏",
-    "Oops! I didn’t get that, try once more?"
+    "Sorry, I didn’t get that 🤔 Could you rephrase?",
+    "Hmm, not sure I understand 😅",
+    "Can you try asking in a different way?"
   ]
 }
