@@ -7,7 +7,7 @@ It runs on [Render](https://render.com) and serves a responsive web UI.
 
 ## 🚀 Demo
 
-👉 [cypher chatbot](https://cypher-chatbot.onrender.com)
+👉 cypher chatbot: https://cypher-chatbot.onrender.com
 
 Type a message and get an instant reply.
 
