@@ -1,7 +1,6 @@
 intent,utterance
 greet,Hello
 greet,Hi
-greet,Vanakkam
 greet,Hey buddy
 greet,Good morning
 greet,Good evening
@@ -9,7 +8,6 @@ greet,Yo
 greet,Howdy
 greet,Hi there
 greet,Hey dude
-greet,Eppadi irukeenga?
 greet,How’s it going?
 greet,Hey bro
 greet,Hi hi
@@ -24,11 +22,8 @@ goodbye,See ya
 goodbye,Bye bye
 goodbye,Talk to you soon
 goodbye,Have a great day
-goodbye,Papom
 thanks,Thanks
 thanks,Thank you so much
-thanks,Nandri
-thanks,Romba nandri
 thanks,Thanks buddy
 thanks,Many thanks
 thanks,Thanks a lot
@@ -36,10 +31,8 @@ thanks,Thanks a million
 thanks,Appreciate it
 thanks,Grateful thanks
 how_are_you,How are you?
-how_are_you,Eppadi irukeenga?
-how_are_you,Enna news?
 how_are_you,How’s life?
-how_are_you,Hows everything?
+how_are_you,How’s everything?
 how_are_you,What’s up?
 how_are_you,How are you feeling?
 how_are_you,Hope you’re fine
@@ -58,27 +51,24 @@ weather,Is it raining?
 weather,Will it rain today?
 weather,What’s the temperature?
 weather,Is it sunny outside?
-weather,Weather forecast pls
+weather,Weather forecast please
 weather,Is it cloudy today?
-weather,Do I need umbrella?
+weather,Do I need an umbrella?
 weather,Is it hot today?
 time_info,What time is it?
-time_info,time
 time_info,Can you tell me the time?
-time_info,Time pls
-time_info,Exact time pls
-date_info,Today date enna?
+time_info,Time please
+time_info,Exact time please
 date_info,What’s today’s date?
-date_info,Date pls
+date_info,Date please
 date_info,What day is today?
 joke,Tell me a joke
-joke,Sollu oru comedy
 joke,Make me laugh
-joke,Funny story pls
+joke,Funny story please
 joke,Do you know a joke?
 joke,Any funny jokes?
 joke,Crack a joke
-joke,Something funny pls
+joke,Something funny please
 small_talk,I am bored
 small_talk,Sing a song
 small_talk,Tell me a story
@@ -91,52 +81,72 @@ small_talk,Can we chat?
 small_talk,I am lonely
 small_talk,Share something interesting
 small_talk,Do you know any fun facts?
-food_talk,Saptiya?
-food_talk,Enna saptinga?
 food_talk,What did you eat?
 food_talk,Did you have lunch?
-food_talk,Pasikutha?
 food_talk,I am hungry
 food_talk,Do you like biryani?
 food_talk,What’s your favorite food?
-food_talk,Sapadu ready ah?
-feelings,I am happy
-feelings,Naan santhosham
-feelings,I am sad
-feelings,Romba kastama iruku
-feelings,I am angry
-feelings,I feel good
-feelings,I am excited
-feelings,I feel bored
-study,What is AI?
-study,Explain Python
-study,Teach me coding
-study,What is machine learning?
-study,Explain recursion
-study,What is deep learning?
-study,Teach me programming
-study,Explain algorithms
-study,Help me with loops
-study,What is data science?
-random,What’s your name?
-random,Who created you?
-random,Where are you from?
-random,What can you do?
-random,Are you real?
-random,Do you have friends?
-random,Do you sleep?
-random,Do you eat?
-random,What’s your hobby?
-random,Can you dance?
-random,Can you sing?
-random,What’s your favorite color?
-random,Do you know me?
-random,Are you alive?
-random,Do you love me?
-random,What’s your favorite movie?
-random,Who is your best friend?
-random,What’s your favorite sport?
-random,What’s your dream?
+food_talk,Is the meal ready?
+feeling_happy,I am happy
+feeling_happy,I feel so good
+feeling_happy,Today I am smiling
+feeling_happy,I feel great
+feeling_sad,I am sad
+feeling_sad,I feel down
+feeling_sad,I am unhappy
+feeling_sad,Feeling depressed
+feeling_angry,I am angry
+feeling_angry,I am mad
+feeling_angry,I feel rage
+feeling_angry,I am furious
+feeling_good,I feel good
+feeling_good,Feeling nice
+feeling_good,I’m doing fine
+feeling_good,I feel okay
+feeling_excited,I am excited
+feeling_excited,I feel thrilled
+feeling_excited,Can’t wait!
+feeling_excited,Feeling awesome
+feeling_bored,I feel bored
+feeling_bored,Nothing to do
+feeling_bored,I am tired of waiting
+feeling_bored,I’m not entertained
+study_ai,What is AI?
+study_ai,Explain AI
+study_ai,Teach me about AI
+study_ai,Define artificial intelligence
+study_python,Explain Python
+study_python,What is Python?
+study_python,Teach me Python
+study_python,Python basics please
+study_coding,Teach me coding
+study_coding,What is coding?
+study_coding,How to start coding?
+study_coding,Explain coding basics
+study_ml,What is machine learning?
+study_ml,Explain ML
+study_ml,Teach me about ML
+study_ml,How does machine learning work?
+study_recursion,Explain recursion
+study_recursion,What is recursion?
+study_recursion,Teach me recursion
+study_recursion,Recursion example please
+study_dl,What is deep learning?
+study_dl,Explain deep learning
+study_dl,Teach me DL
+study_dl,Deep learning basics
+study_algo,Explain algorithms
+study_algo,What is an algorithm?
+study_algo,How do algorithms work?
+study_algo,Teach me about algorithms
+study_loops,Help me with loops
+study_loops,What are loops?
+study_loops,Explain loops in coding
+study_loops,Loop examples please
+study_datasci,What is data science?
+study_datasci,Explain data science
+study_datasci,Teach me data science
+study_datasci,How does data science work?
 unknown,Sorry I didn’t understand
 unknown,Can you rephrase that?
 unknown,Not sure I get it
@@ -146,3 +156,5 @@ unknown,Sorry I am not sure
 unknown,Can you explain differently?
 unknown,Please ask something else
 unknown,Oops I didn’t get that
+
+
